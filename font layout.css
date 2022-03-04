@@ -57,6 +57,7 @@ input[type='submit']{
     text-decoration: none;
     padding-right: 8px;
     text-align: center;
+    display: inline-block;
     
   }
   .links :hover{
